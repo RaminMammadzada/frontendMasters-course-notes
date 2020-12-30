@@ -8,8 +8,6 @@ To finish them all I have 12 days of Christmas break.
 
 The courses I am planning to take and finish with exercises/projects.
 
-Day 1
-
 -   [x] Sean Larkin - [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/)
 
     -   [Slides (Google Slides)](https://docs.google.com/presentation/d/1hFtMCMo62DgOIc-9OwgaVwPZHwv1cgMELArHcMbXlSI/edit#slide=id.g15e96ef847_0_0)

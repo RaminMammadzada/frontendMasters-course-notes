@@ -1,0 +1,3 @@
+[submodule "full_stack_for_front_end_engineers_v2/fullstack-nodejs-app-example"]
+	path = full_stack_for_front_end_engineers_v2/fullstack-nodejs-app-example
+	url = git@github.com:RaminMammadzada/fullstack-nodejs-app-example.git
