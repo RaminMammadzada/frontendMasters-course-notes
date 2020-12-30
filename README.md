@@ -20,7 +20,7 @@ Day 1
     -   [Slides (Google Slides)](https://static.frontendmasters.com/resources/2019-07-31-hard-parts-functional-js/functional-programming.pdf)
     -   [Code Exercises (Csbin)](http://csbin.io/functional) - [solutions](https://github.com/CodesmithLLC/cs-bin-solutions/blob/master/functional.js)
 
--   [x] William Sentance - Javascript The hard parts, v2
+-   [x] William Sentance - [Javascript The hard parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
 
     -   [Slides (Google Slides)](https://static.frontendmasters.com/resources/2019-09-18-javascript-hard-parts-v2/javascript-hard-parts-v2.pdf)
     -   [Callback Exercises](http://csbin.io/callbacks)
@@ -34,28 +34,45 @@ Day 1
         -   [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
         -   [Object.getPrototypeOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
 
--   [ ] Jem Young - Full Stack for Front-End Engineers, v2
+-   [x] Jem Young - [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
 
--   [ ] William Sentance - The Hard Parts of Object Oriented Javascript, v2
+    -   [Slides (Google Slides)](https://docs.google.com/presentation/d/1Mvf_rOFz1wZeH1irajJqhRQgzid7BkqJBd8wigpz39M/edit#slide=id.p)
+    -   Useful links:
+        -   [VIM Commands cheat sheet](https://linuxmoz.com/vi-commands-cheat-sheet/)
+        -   [Install Fail2ban](https://www.techrepublic.com/article/how-to-install-fail2ban-on-ubuntu-server-18-04/)
+        -   [ExpressJS performance tips](http://expressjs.com/en/advanced/best-practice-performance.html)
+        -   [Difference between Lossy Compression and Lossless Compression](https://www.geeksforgeeks.org/difference-between-lossy-compression-and-lossless-compression/)
+        -   [Maxmind GEOIP database](https://www.maxmind.com/en/geoip-demo)
+        -   [Linux Chmod Permissions Cheat Sheet](https://isabelcastillo.com/linux-chmod-permissions-cheat-sheet)
+        -   [explainshell.com](https://explainshell.com) - write down a command-line to see the help text that matches each argument
 
--   [ ] Mike North - Sass Fundamentals
+*   [ ] William Sentance - The Hard Parts of Object Oriented Javascript, v2
 
--   [ ] William Sentance - JavaScript: The New Hard Parts
+*   [ ] Mike North - Sass Fundamentals
 
--   [ ] Sarah Drasner - Design for Developers
+*   [ ] William Sentance - JavaScript: The New Hard Parts
 
--   [ ] William Sentance - The Hard Parts of Servers & Node.js
+*   [ ] Sarah Drasner - Design for Developers
 
--   [ ] Brian Holt - Complete Intro to Containers
+*   [ ] William Sentance - The Hard Parts of Servers & Node.js
 
--   [ ] Brian Holt - Complete Front-End Project: Build a Game
+*   [ ] Brian Holt - Complete Intro to Containers
 
--   [ ] Scott Moss - API Design in Node.js, v3
+*   [ ] Brian Holt - Complete Front-End Project: Build a Game
 
--   [ ] Steve Kinney - AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)
+*   [ ] Scott Moss - API Design in Node.js, v3
 
--   [ ] Kevin Whinnery - Zero to Production Node.js on Amazon Web Services
+*   [ ] Steve Kinney - AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)
 
--   [ ] Kyle Simpson - Real-Time Web with Node.js
+*   [ ] Kevin Whinnery - Zero to Production Node.js on Amazon Web Services
 
--   [ ] Armagan Amcalar - Javascript Crash Course 2019
+*   [ ] Kyle Simpson - Real-Time Web with Node.js
+
+*   [ ] Armagan Amcalar - Javascript Crash Course 2019
+
+Extra interesting courses:
+
+-   [ ] Kyle Simpson - [Digging Into Node.js](https://frontendmasters.com/courses/digging-into-node/)
+-   [ ] James Halliday - [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/)
+-   [ ] Kyle Simpson - [Exploring Service Workers](https://frontendmasters.com/courses/service-workers/)
+-   [ ] Kent C. Dodds - [Code Transformation and Linting with ASTs](https://frontendmasters.com/courses/linting-asts/)
