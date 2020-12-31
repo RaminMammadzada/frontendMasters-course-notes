@@ -1,7 +1,7 @@
 ### Suspicious IPs attacked to my server in digital ocean in the first 20 hours after I created the server.
 
 The command that searches `/var/log/auth.log` file and gets the IPs by regex that attacked to my server and failed:  
-`$ awk '/Failed/ {x[$(NF-3)]++} END {for (i in x){printf "%3d %s\n", x[i], i}}' /var/log/auth.log | sort -nr`
+`$ awk '/invalid user/ {x[$(NF-3)]++} END {for (i in x){printf "%3d %s\n", x[i], i}}' /var/log/auth.log | sort -nr`
 
 Suspicious IP Addresses:
 

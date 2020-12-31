@@ -43,6 +43,10 @@ The courses I am planning to take and finish with exercises/projects.
         -   [Maxmind GEOIP database](https://www.maxmind.com/en/geoip-demo)
         -   [Linux Chmod Permissions Cheat Sheet](https://isabelcastillo.com/linux-chmod-permissions-cheat-sheet)
         -   [explainshell.com](https://explainshell.com) - write down a command-line to see the help text that matches each argument
+        -   [certbot](https://certbot.eff.org) can be used to add HTTPS to NGINX
+        -   [Electronic Frontiers Foundation](https://www.eff.org) - The leading nonprofit defending digital privacy, free speech, and innovation for 30 years.
+        -   [http/2 and http/1.1 comparison ](https://http2.akamai.com/demo)
+        -   [Titus, the Netflix container management platform](https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
 *   [ ] William Sentance - The Hard Parts of Object Oriented Javascript, v2
 
