@@ -48,7 +48,7 @@ The courses I am planning to take and finish with exercises/projects.
         -   [http/2 and http/1.1 comparison ](https://http2.akamai.com/demo)
         -   [Titus, the Netflix container management platform](https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
--   [x] [Brian Holt - Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/) - !!! - 1
+-   [x] Brian Holt - [Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/)
 
     -   [Course note](https://btholt.github.io/project-fox-game-site/)
     -   [Fox Game codebase](complete_front_end_project_build_game/fox-gam) - my implementation
@@ -56,19 +56,25 @@ The courses I am planning to take and finish with exercises/projects.
     -   Useful links:
         -   [Emmet in Visual Studio Code](https://code.visualstudio.com/docs/editor/emmet)
 
+-   [x] William Sentance - [JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/)
+
+    -   [Course slides](https://static.frontendmasters.com/resources/2018-05-23-javascript-new-hard-parts/new-hard-parts-slides.pdf)
+    -   [Iterator Exercises](http://csbin.io/iterators)
+        -   [solutions](https://gist.github.com/aegorenkov/2ae91cabf21223bddca8c5b3ef3ec6f6)
+    -   Useful links:
+        -   [yield](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
+
+-   [ ] Scott Moss - API Design in Node.js, v3
+
 *   [ ] William Sentance - The Hard Parts of Object Oriented Javascript, v2
 
 *   [ ] Mike North - Sass Fundamentals
 
-*   [ ] William Sentance - JavaScript: The New Hard Parts - !!! - 2
-
 *   [ ] Sarah Drasner - Design for Developers
 
-*   [ ] William Sentance - The Hard Parts of Servers & Node.js - !!! - 4
+*   [ ] William Sentance - The Hard Parts of Servers & Node.js
 
 *   [ ] Brian Holt - Complete Intro to Containers
-
-*   [ ] Scott Moss - API Design in Node.js, v3 - !!! - 3
 
 *   [ ] Steve Kinney - AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)
 
