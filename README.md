@@ -48,21 +48,27 @@ The courses I am planning to take and finish with exercises/projects.
         -   [http/2 and http/1.1 comparison ](https://http2.akamai.com/demo)
         -   [Titus, the Netflix container management platform](https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
+-   [x] [Brian Holt - Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/) - !!! - 1
+
+    -   [Course note](https://btholt.github.io/project-fox-game-site/)
+    -   [Fox Game codebase](complete_front_end_project_build_game/fox-gam) - my implementation
+    -   [Fox Game codebase](https://github.com/btholt/project-files-for-fox-game) - instructer's implementation
+    -   Useful links:
+        -   [Emmet in Visual Studio Code](https://code.visualstudio.com/docs/editor/emmet)
+
 *   [ ] William Sentance - The Hard Parts of Object Oriented Javascript, v2
 
 *   [ ] Mike North - Sass Fundamentals
 
-*   [ ] William Sentance - JavaScript: The New Hard Parts
+*   [ ] William Sentance - JavaScript: The New Hard Parts - !!! - 2
 
 *   [ ] Sarah Drasner - Design for Developers
 
-*   [ ] William Sentance - The Hard Parts of Servers & Node.js
+*   [ ] William Sentance - The Hard Parts of Servers & Node.js - !!! - 4
 
 *   [ ] Brian Holt - Complete Intro to Containers
 
-*   [ ] Brian Holt - Complete Front-End Project: Build a Game
-
-*   [ ] Scott Moss - API Design in Node.js, v3
+*   [ ] Scott Moss - API Design in Node.js, v3 - !!! - 3
 
 *   [ ] Steve Kinney - AWS for Front-End Engineers (ft. S3, Cloudfront & Route 53)
 
@@ -78,3 +84,4 @@ Extra interesting courses:
 -   [ ] James Halliday - [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/)
 -   [ ] Kyle Simpson - [Exploring Service Workers](https://frontendmasters.com/courses/service-workers/)
 -   [ ] Kent C. Dodds - [Code Transformation and Linting with ASTs](https://frontendmasters.com/courses/linting-asts/)
+-   [ ] David Khourshid - [State Machines in JavaScript with XState](https://frontendmasters.com/courses/xstate/)
