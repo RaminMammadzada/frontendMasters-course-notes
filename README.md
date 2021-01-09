@@ -64,15 +64,37 @@ The courses I am planning to take and finish with exercises/projects.
     -   Useful links:
         -   [yield](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
 
+-   [ ] Kyle Simpson - [Digging Into Node.js](https://frontendmasters.com/courses/digging-into-node/)
+
+    -   Useful links:
+        -   Command line section:
+            -   Portable Operating System Interface ( [POSIX](https://en.wikipedia.org/wiki/POSIX) )
+            -   [Babel](https://babeljs.io)
+            -   [Weebpack](https://webpack.js.org)
+            -   [minimist](https://github.com/substack/minimist) - parses argument options easyly
+            -   [yargs](https://yargs.js.org) - simiral to minimist (it wraps on top of minimist)
+            -   [path module](https://nodejs.org/api/path.html) - Node documentation on `path module`.
+            -   [fs module](https://nodejs.org/api/fs.html) - Node documentation on `fs module`.
+        -   Streams section:
+            -   [stream-handbook](https://github.com/substack/stream-handbook) - This document covers the basics of how to write node.js programs with streams.
+            -   [readable.pipe](https://nodejs.org/api/stream.html#stream_readable_pipe_destination_options)
+            -   [stream](https://nodejs.org/api/stream.html) - Node documentation on `stream`.
+            -   [zlip](https://nodejs.org/api/zlib.html) - Node documentation on `zlip`.
+
 -   [ ] Scott Moss - API Design in Node.js, v3
+    -   [Course Repo](https://github.com/FrontendMasters/api-design-node-v3)
+    -   Useful links:
+            -   [Install MongoDB](https://docs.mongodb.com/manual/installation/)
+            -   [mongodb-memory-server](https://www.npmjs.com/package/mongodb-memory-server)
+            -   [mLab](https://mlab.com) - Database-as-a-Service for MongoDB
+
+-   [ ] William Sentance - The Hard Parts of Servers & Node.js
 
 *   [ ] William Sentance - The Hard Parts of Object Oriented Javascript, v2
 
 *   [ ] Mike North - Sass Fundamentals
 
 *   [ ] Sarah Drasner - Design for Developers
-
-*   [ ] William Sentance - The Hard Parts of Servers & Node.js
 
 *   [ ] Brian Holt - Complete Intro to Containers
 
@@ -86,8 +108,8 @@ The courses I am planning to take and finish with exercises/projects.
 
 Extra interesting courses:
 
--   [ ] Kyle Simpson - [Digging Into Node.js](https://frontendmasters.com/courses/digging-into-node/)
 -   [ ] James Halliday - [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/)
 -   [ ] Kyle Simpson - [Exploring Service Workers](https://frontendmasters.com/courses/service-workers/)
 -   [ ] Kent C. Dodds - [Code Transformation and Linting with ASTs](https://frontendmasters.com/courses/linting-asts/)
 -   [ ] David Khourshid - [State Machines in JavaScript with XState](https://frontendmasters.com/courses/xstate/)
+-   [ ] James Halliday - [Networking and Streams](https://frontendmasters.com/courses/networking-streams/)
