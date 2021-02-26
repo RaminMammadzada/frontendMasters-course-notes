@@ -1,12 +1,8 @@
-## The FrontendMasters Challenge
+## The FrontendMasters Courses' Notes
 
-### The Challenge
+These are my course following notes related to my Javascript, Node & Fullstack development during my studies in [https://www.frontendmasters.com](frontendmasters.com) webpage and [Armagan Amcalar](https://www.youtube.com/playlist?list=PL9pDl_Oth4cqVnLrf5DCK4a_HhoAEhV4a) Youtube playlist.
 
-This is my own challenge to accelerate my Javascript, Node & Fullstack learning with the help of [https://www.frontendmasters.com](frontendmasters.com) and [Armagan Amcalar](https://www.youtube.com/playlist?list=PL9pDl_Oth4cqVnLrf5DCK4a_HhoAEhV4a)!
-
-To finish them all I have 12 days of Christmas break.
-
-The courses I am planning to take and finish with exercises/projects.
+### JS and NodeJS courses
 
 -   [x] Sean Larkin - [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/)
 
@@ -31,22 +27,6 @@ The courses I am planning to take and finish with exercises/projects.
     -   Useful links:
         -   [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
         -   [Object.getPrototypeOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf)
-
--   [x] Jem Young - [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
-
-    -   [Slides (Google Slides)](https://docs.google.com/presentation/d/1Mvf_rOFz1wZeH1irajJqhRQgzid7BkqJBd8wigpz39M/edit#slide=id.p)
-    -   Useful links:
-        -   [VIM Commands cheat sheet](https://linuxmoz.com/vi-commands-cheat-sheet/)
-        -   [Install Fail2ban](https://www.techrepublic.com/article/how-to-install-fail2ban-on-ubuntu-server-18-04/)
-        -   [ExpressJS performance tips](http://expressjs.com/en/advanced/best-practice-performance.html)
-        -   [Difference between Lossy Compression and Lossless Compression](https://www.geeksforgeeks.org/difference-between-lossy-compression-and-lossless-compression/)
-        -   [Maxmind GEOIP database](https://www.maxmind.com/en/geoip-demo)
-        -   [Linux Chmod Permissions Cheat Sheet](https://isabelcastillo.com/linux-chmod-permissions-cheat-sheet)
-        -   [explainshell.com](https://explainshell.com) - write down a command-line to see the help text that matches each argument
-        -   [certbot](https://certbot.eff.org) can be used to add HTTPS to NGINX
-        -   [Electronic Frontiers Foundation](https://www.eff.org) - The leading nonprofit defending digital privacy, free speech, and innovation for 30 years.
-        -   [http/2 and http/1.1 comparison ](https://http2.akamai.com/demo)
-        -   [Titus, the Netflix container management platform](https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
 -   [x] Brian Holt - [Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/)
 
@@ -82,15 +62,39 @@ The courses I am planning to take and finish with exercises/projects.
             -   [zlip](https://nodejs.org/api/zlib.html) - Node documentation on `zlip`.
 
 -   [ ] Scott Moss - API Design in Node.js, v3
-    -   [Course Repo](https://github.com/FrontendMasters/api-design-node-v3)
-    -   Useful links:
-            -   [Install MongoDB](https://docs.mongodb.com/manual/installation/)
-            -   [mongodb-memory-server](https://www.npmjs.com/package/mongodb-memory-server)
-            -   [mLab](https://mlab.com) - Database-as-a-Service for MongoDB
 
--   [ ] William Sentance - The Hard Parts of Servers & Node.js
+    -   [Course Repo](https://github.com/FrontendMasters/api-design-node-v3)
+    -   Useful links: - [Install MongoDB](https://docs.mongodb.com/manual/installation/) - [mongodb-memory-server](https://www.npmjs.com/package/mongodb-memory-server) - [mLab](https://mlab.com) - Database-as-a-Service for MongoDB
+
+*   [ ] Garann Means - [Web UI Architecture](https://frontendmasters.com/courses/web-ui-architecture)
+
+    -
+
+*   [ ] William Sentance - The Hard Parts of Servers & Node.js
 
 *   [ ] William Sentance - The Hard Parts of Object Oriented Javascript, v2
+
+*   [ ] Kyle Simpson - Real-Time Web with Node.js
+
+*   [ ] Armagan Amcalar - Javascript Crash Course 2019
+
+### Full Stack courses
+
+-   [x] Jem Young - [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
+
+    -   [Slides (Google Slides)](https://docs.google.com/presentation/d/1Mvf_rOFz1wZeH1irajJqhRQgzid7BkqJBd8wigpz39M/edit#slide=id.p)
+    -   Useful links:
+        -   [VIM Commands cheat sheet](https://linuxmoz.com/vi-commands-cheat-sheet/)
+        -   [Install Fail2ban](https://www.techrepublic.com/article/how-to-install-fail2ban-on-ubuntu-server-18-04/)
+        -   [ExpressJS performance tips](http://expressjs.com/en/advanced/best-practice-performance.html)
+        -   [Difference between Lossy Compression and Lossless Compression](https://www.geeksforgeeks.org/difference-between-lossy-compression-and-lossless-compression/)
+        -   [Maxmind GEOIP database](https://www.maxmind.com/en/geoip-demo)
+        -   [Linux Chmod Permissions Cheat Sheet](https://isabelcastillo.com/linux-chmod-permissions-cheat-sheet)
+        -   [explainshell.com](https://explainshell.com) - write down a command-line to see the help text that matches each argument
+        -   [certbot](https://certbot.eff.org) can be used to add HTTPS to NGINX
+        -   [Electronic Frontiers Foundation](https://www.eff.org) - The leading nonprofit defending digital privacy, free speech, and innovation for 30 years.
+        -   [http/2 and http/1.1 comparison ](https://http2.akamai.com/demo)
+        -   [Titus, the Netflix container management platform](https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 
 *   [ ] Mike North - Sass Fundamentals
 
@@ -102,11 +106,11 @@ The courses I am planning to take and finish with exercises/projects.
 
 *   [ ] Kevin Whinnery - Zero to Production Node.js on Amazon Web Services
 
-*   [ ] Kyle Simpson - Real-Time Web with Node.js
+### React courses
 
-*   [ ] Armagan Amcalar - Javascript Crash Course 2019
 
-Extra interesting courses:
+
+### Extra interesting courses:
 
 -   [ ] James Halliday - [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/)
 -   [ ] Kyle Simpson - [Exploring Service Workers](https://frontendmasters.com/courses/service-workers/)
