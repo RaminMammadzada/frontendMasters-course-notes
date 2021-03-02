@@ -106,9 +106,18 @@ These are my course following notes related to my Javascript, Node & Fullstack d
 
 *   [ ] Kevin Whinnery - Zero to Production Node.js on Amazon Web Services
 
-### React courses
+### React courses:
 
-
+-   [ ] [Kevin Whinnery - Complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)
+    -   [Course webpage itself](https://btholt.github.io/complete-intro-to-react-v5/)
+    -   [Exercises repo](https://github.com/btholt/complete-intro-to-react-v5)
+    -   Useful links:
+        -   [Emmit Cheetsheet](https://docs.emmet.io/cheat-sheet/)
+        -   [Prettier](https://prettier.io) - to beautify the code
+        -   [Parcel](https://parceljs.org) - it is a bundler like Webpack
+        -   [http://placecorgi.com](Placeorgi) - API for placeholder images
+        -   [Reach Router](https://reach.tech/router/) docs
+        -   [Context](https://reactjs.org/docs/context.html)
 
 ### Extra interesting courses:
 
