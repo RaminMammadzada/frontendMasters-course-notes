@@ -1,8 +1,6 @@
 [submodule "full_stack_for_front_end_engineers_v2/fullstack-nodejs-app-example"]
 	path = full_stack_for_front_end_engineers_v2/fullstack-nodejs-app-example
 	url = git@github.com:RaminMammadzada/fullstack-nodejs-app-example.git
-
-
 [submodule "complete_intro_to_react_v5/adopt-me"]
 	path = complete_intro_to_react_v5/adopt-me
-	url = git@github.com:RaminMammadzada/adopt-me.git
+	url = https://github.com/RaminMammadzada/adopt-me
