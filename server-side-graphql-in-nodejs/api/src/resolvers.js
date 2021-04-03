@@ -12,6 +12,7 @@ module.exports = {
       return ctx.models.Pet.findMany(input)
     },
     pet(_, { input }, ctx) {
+      console.log('Query => pet')
       return ctx.models.Pet.findOne(input)
     }
   },
@@ -20,19 +21,26 @@ module.exports = {
       const pet = ctx.models.Pet.create(input);
       return pet;
     },
-    updatePet(_, {input}, ctx) {
-      const pet = ctx.models.Pet.update(iput.id, input.updates);
-      return pet;
-    }
+    // updatePet(_, { input }, ctx) {
+    //   const pet = ctx.models.Pet.update(iput.id, input.updates);
+    //   return pet;
+    // }
   },
   Pet: {
+    owner(_, __, ctx) {
+      console.log('PET => owner')
+      return ctx.models.User.findOne()
+    }
     // img(pet) {
     //   return pet.type === 'DOG'
     //     ? 'https://placedog.net/300/300'
     //     : 'http://placekitten.com/300/300'
     // }
   },
-  // User: {
-
-  // }
+  User: {
+    pets(_, __, ctx) {
+      console.log('User => pets')
+      return ctx.models.Pet.findMany()
+    }
+  }
 }
