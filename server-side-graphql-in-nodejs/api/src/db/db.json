@@ -1,0 +1,68 @@
+{
+  "user": {
+    "id": "j1j2j3j4j5j6j7j8j9",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "432432",
+      "name": "Moosess",
+      "type": "DOGG"
+    },
+    {
+      "id": "2",
+      "createdAt": "343445432432",
+      "name": "Daryll",
+      "type": "CATT"
+    },
+    {
+      "id": "3",
+      "createdAt": "1343445432432",
+      "name": "SDaryll",
+      "type": "CATT"
+    },
+    {
+      "id": "Pnt31lDtwDULT1JjB0eM5",
+      "createdAt": 1617430884519,
+      "name": "Darel",
+      "type": "CAT"
+    },
+    {
+      "id": "tGZfxcqCABZm7Hz3zAm0v",
+      "createdAt": 1617430886773,
+      "name": "Darel",
+      "type": "CAT"
+    },
+    {
+      "id": "8pJDvrwDyi7SVCTFMy7uc",
+      "createdAt": 1617430887544,
+      "name": "Darel",
+      "type": "CAT"
+    },
+    {
+      "id": "DVPSethEvr4Gj6rGK1kpM",
+      "createdAt": 1617430993241,
+      "name": "Darel",
+      "type": "CAT"
+    },
+    {
+      "id": "aYtBV1wCBhjZICC7efYTt",
+      "createdAt": 1617431005434,
+      "name": "Darel",
+      "type": "CAT"
+    },
+    {
+      "id": "iaUaTrhrB8YQUedZ2BS8o",
+      "createdAt": 1617431006689,
+      "name": "Darel",
+      "type": "CAT"
+    },
+    {
+      "id": "xhYK_M7HTVzI26wBjiswQ",
+      "createdAt": 1617431007754,
+      "name": "Darel",
+      "type": "CAT"
+    }
+  ]
+}
