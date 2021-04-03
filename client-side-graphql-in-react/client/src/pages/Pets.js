@@ -23,6 +23,7 @@ const NEW_PET = gql`
       name
       type
       img
+      __typename
     }
   }
 `;
@@ -39,6 +40,16 @@ export default function Pets() {
         query: ALL_PETS,
         data: { pets: [addPet, ...data.pets] },
       });
+    },
+    optimisticResponse: {
+      __typename: "Mutation",
+      addPet: {
+        __typename: 'Pet',
+        id: Math.floor(Math.random() * 10000) + '',
+        name: "from name",
+        type: "from type",
+        img: 'https://via.placeholder.com/300?__cf_chl_jschl_tk__=16e008ebeaab5b39e25c86f2e78d99c42a9a6d29-1617476016-0-AXT2hPHbCKW3etadkQJpFQoy5u0grRyWVaHRU0T7S3_BBzGkS201XBmoaG6l3Nrlt9s22yalkYHgLTprVP4dd1YEDEuzMIJdrzmvVlmKPp989G-TBWsoXjsA0vgnq5J05NYyS2GtuG_IbXrVyy6ezCSMK7KQKzXKIrUUWso2mnhYRkY6-aUT8bV4Esp_Cyc9cGjFjtiyDRRP6S6QJZPFsD2HODOavTyDInL-jekY8teq-kU6PNu5Q-6kzZM3-mqgRFjMJZ3vRrVawYE8e89vkrtGDlTMjlg2F9_i1sdv6-nDZiUP1na5I27vbcnWrQIcGddjC1ZwEnYOtNGt2PjmJNoVu1sIoyLoH40-Y7teylGxH0geqyCLJUjrlPN9OIksWw'
+      }
     }
   });
 
@@ -56,11 +67,21 @@ export default function Pets() {
     createPet({
       variables: {
         newPet: input
+      },
+      optimisticResponse: {
+        __typename: "Mutation",
+        addPet: {
+          __typename: 'Pet',
+          id: Math.floor(Math.random() * 10000) + '',
+          name: input.name,
+          type: input.type,
+          img: 'https://via.placeholder.com/300?__cf_chl_jschl_tk__=16e008ebeaab5b39e25c86f2e78d99c42a9a6d29-1617476016-0-AXT2hPHbCKW3etadkQJpFQoy5u0grRyWVaHRU0T7S3_BBzGkS201XBmoaG6l3Nrlt9s22yalkYHgLTprVP4dd1YEDEuzMIJdrzmvVlmKPp989G-TBWsoXjsA0vgnq5J05NYyS2GtuG_IbXrVyy6ezCSMK7KQKzXKIrUUWso2mnhYRkY6-aUT8bV4Esp_Cyc9cGjFjtiyDRRP6S6QJZPFsD2HODOavTyDInL-jekY8teq-kU6PNu5Q-6kzZM3-mqgRFjMJZ3vRrVawYE8e89vkrtGDlTMjlg2F9_i1sdv6-nDZiUP1na5I27vbcnWrQIcGddjC1ZwEnYOtNGt2PjmJNoVu1sIoyLoH40-Y7teylGxH0geqyCLJUjrlPN9OIksWw'
+        }
       }
     });
   }
 
-  if (loading || newPet.loading) {
+  if (loading) {
     return <Loader />
   }
 
